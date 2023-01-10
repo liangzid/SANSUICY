@@ -1,5 +1,10 @@
 # SANSUICY LICENSE 
 
+<img
+  src="./imgs/sansuicy-icon.png"
+  title="Icon of The Sansuicy Lisence"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 
 ## WARNING
 Using this LISENCE means that you NO LONGER have the RIGHT to DELETE or WITHDRAW your product, and ALL your rights to it will be SHARED by OTHERS. Due to malicious copying and other reasons, the use of SANSUICY LICENSE may cause your work to generate LESS direct benefits for you.

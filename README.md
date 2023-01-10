@@ -34,3 +34,5 @@ After entering the modern society, with the popularity of the copyright system a
 * GPL. The GPL LISENCE ensures the derivative works must use GPL LISENCE, too. This is not stipulated in the SANSUICY LISENCE.
 
 * MIT. The MIT LISENCE requires the right of signature to be retained, but the SANSUICY LISENCE does not stipulate this. In fact, a large number of authors in SANSUICY's era deliberately released their works anonymously. Compared with name retention, this method also has some advantages. In addition, the SANSUICY LISENCE stipulates that all participants in the reproduction and modification of works must have the obligation to maintain the implementation of the SANSUICY LISENCE for works at their upstream works, which is not stipulated in the MIT LISENCE.
+
+
